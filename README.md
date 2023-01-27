@@ -1,13 +1,13 @@
 ### Hi there, I'm MOHAMMAD ABUL KASHEM 👋
-<br/>
+
 
 ## I'm a Problem Solver, Programmer, Software Engineer, Web Developer and Learner
 
-<br/>
+
 
 ## 🌱 I'm Currently Learning Competitive Programming and Django
 
-<br/>
+
 
 ## 🥅 2022 Goals:
 <li>Learn HTML - (Achieved)</li>
