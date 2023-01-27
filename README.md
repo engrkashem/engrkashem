@@ -1,8 +1,13 @@
 ### Hi there, I'm MOHAMMAD ABUL KASHEM 👋
+<br/>
 
 ## I'm a Problem Solver, Programmer, Software Engineer, Web Developer and Learner
 
+<br/>
+
 ## 🌱 I'm Currently Learning Competitive Programming and Django
+
+<br/>
 
 ## 🥅 2022 Goals:
 <li>Learn HTML - (Achieved)</li>
@@ -17,6 +22,7 @@
 <li>Learn Data Structure - (Partially Achieved)</li>
 <li>Learn Python - (Partially Achieved)</li>
 <li>Problem Solve 600+ - (Partially Achieved)</li>
+<br/>
 
 ## 🥅 2023 Goals:
 <li>Advance Learning on Python</li>
@@ -28,7 +34,9 @@
 ⚡[Vjudge](https://vjudge.net/user/engrkashem)
 ⚡[Codeforces](https://codeforces.com/profile/engr.kashem)
 ⚡[LeetCode](https://leetcode.com/engrkashem/)
-
+<br/>
+<br/>
+<br/>
 
 ### Connect with me:
 
@@ -37,7 +45,9 @@
 <a href="https://www.linkedin.com/in/mohammad-abul-kashem/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
-
+<br/>
+<br/>
+<br/>
 
 ### Languages and Tools:
 
