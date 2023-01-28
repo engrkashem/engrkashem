@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
-### Connect with me:
+### 🔭 Connect with me:
 
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>](https://www.facebook.com/ksmbd)
 
