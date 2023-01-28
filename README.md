@@ -64,7 +64,7 @@
 
 <br/>
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrkashem&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrkashem&theme=radical)
 <!--
 **engrkashem/engrkashem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
