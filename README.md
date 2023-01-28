@@ -69,7 +69,16 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrkashem&theme=radical)
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrkashem&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrkashem&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
+</p>
+<p align="center">
+  <img height="150" width="150" src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engrkashem&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/WEBP/right.webp">
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrkashem&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
 <!--
