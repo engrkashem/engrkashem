@@ -69,7 +69,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrkashem&theme=radical)
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrkashem&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrkashem&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 </p>
 
 <!--
