@@ -1,12 +1,19 @@
- <h1>Hi there, I'm MOHAMMAD ABUL KASHEM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ><h1/>
+ <h1 align="center">Hi there, I'm MOHAMMAD ABUL KASHEM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ><h1/>
 
+<h3 align="center">Problem Solver | Software Engineer | Web Developer | Learner</h3>
+<br/>
+<h2>About Me<h2/>
+ <p>An Engineering Professional with over 6 years experience in the field of Production, Testing, Procurement, Project Management etc. but passionate about programming. Some of C++, Python, AI and MERN stack projects already have in my bucket. Taking part in Competitive Programming regularly. I feel like craving in building my career in software engineering fields. Never feel bored in problem solving. Thinking about logic-building makes me enthusiastic, that is why I choose #Software_Engineer, #Web_Development, #MERN, #Artificial_Intelligence as my career.<p/>
 
-## I'm a Problem Solver, Programmer, Software Engineer, Web Developer and Learner
+## 🌱 I'm Currently Learning Algorithm and Django.
 
+### 🔭 Connect with me:
 
+[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>](https://www.facebook.com/ksmbd)
 
-## 🌱 I'm Currently Learning Competitive Programming and Django
-
+<a href="https://www.linkedin.com/in/mohammad-abul-kashem/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
+</a>
 
 
 ## 🥅 2022 Goals:
@@ -38,13 +45,7 @@
 <br/>
 <br/>
 
-### 🔭 Connect with me:
 
-[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>](https://www.facebook.com/ksmbd)
-
-<a href="https://www.linkedin.com/in/mohammad-abul-kashem/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
-</a>
 <br/>
 <br/>
 <br/>
