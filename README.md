@@ -9,8 +9,9 @@
     
 <h2>About Me<h2/>
     
-An Engineering Professional with over 6 years experience in the field of Production, Testing, Procurement, Project Management etc. but passionate about programming. Some of C++, Python, AI and MERN stack projects already have in my bucket. Taking part in Competitive Programming regularly. I feel like craving in building my career in software engineering fields. Never feel bored in problem solving. Thinking about logic-building makes me enthusiastic, that is why I choose #Software_Engineer, #Web_Development, #MERN, #Artificial_Intelligence as my career.
+An Engineering Professional with over 6 years experience in the field of Production, Testing, Procurement, Project Management etc. but passionate about programming. Some of C++, Python, AI and MERN stack projects already have in my bucket. Taking part in Competitive Programming regularly. I feel like craving in building my career in software engineering fields. Never feel bored in problem solving. Thinking about logic-building makes me enthusiastic, that is why I choose Software_Engineer, Web_Development, MERN, Artificial_Intelligence as my career.
 
+    
 ## 🌱 I'm Currently Learning Algorithm and Django.
 
 ### 🔭 Connect with me:
