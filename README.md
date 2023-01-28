@@ -22,10 +22,10 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-    
+<br/>
 
 
- 🔭 Connect with me:
+## 🔭 Connect with me:
 
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>](https://www.facebook.com/ksmbd)
 
@@ -33,7 +33,9 @@
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
 
- 🥅 2022 Goals:
+<br/>
+    
+## 🥅 2022 Goals:
 <li>Learn HTML - (Achieved)</li>
 <li>Learn CSS - (Achieved)</li>
 <li>Learn Java-Script - (Achieved)</li>
