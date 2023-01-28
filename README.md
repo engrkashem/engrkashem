@@ -65,16 +65,7 @@
 <br/>
 
 
-<br/>
-<br/>
-<br/>
-
-
-
-<br/> 
-<br/> 
-
- 📫 GitHub Stats
+## 📫 GitHub Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrkashem&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
