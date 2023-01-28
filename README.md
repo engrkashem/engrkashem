@@ -15,7 +15,7 @@
     
 
 
-### 🔭 Connect with me:
+ 🔭 Connect with me:
 
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>](https://www.facebook.com/ksmbd)
 
@@ -23,8 +23,7 @@
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
 
-
-## 🥅 2022 Goals:
+ 🥅 2022 Goals:
 <li>Learn HTML - (Achieved)</li>
 <li>Learn CSS - (Achieved)</li>
 <li>Learn Java-Script - (Achieved)</li>
@@ -39,7 +38,7 @@
 <li>Problem Solve 600+ - (Partially Achieved)</li>
 <br/>
 
-## 🥅 2023 Goals:
+ 🥅 2023 Goals:
 <li>Advance Learning on Python</li>
 <li>Learn Django</li>
 <li>Learn RUST</li>
@@ -58,7 +57,7 @@
 <br/>
 <br/>
 
-### Languages and Tools:
+ Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -74,7 +73,7 @@
 <br/> 
 <br/> 
 
-### 📫 GitHub Stats
+ 📫 GitHub Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrkashem&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
