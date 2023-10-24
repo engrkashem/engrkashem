@@ -6,7 +6,19 @@
     
 ## About Me
     
-- An Engineering Professional with over 6 years experience in the field of Production, Testing, Procurement, Project Management etc. but passionate about programming. Some of C++, Python, AI and MERN stack projects already have in my bucket. Taking part in Competitive Programming regularly. I feel like craving in building my career in software engineering fields. Never feel bored in problem solving. Thinking about logic-building makes me enthusiastic, that is why I choose Software_Engineer, Web_Development, MERN, Artificial_Intelligence as my career.
+- I am an 𝙀𝙀𝙀 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧 with 2+ years of hands-on experience in web development and software engineering. I spend most of my daily time learning new skills, developing web applications, creating APIs, and designing database management systems. It would be an understatement if I tell you I'm passionate about programming.
+
+- I have solved 500+ problems in different online judges in just 14 months, demonstrating my strong problem-solving abilities. I also had the opportunity to build a full-stack web application with React, Django, and MySQL, and I contributed significantly to the team, earning a recommendation letter for my 28% more contribution than other team members. I have also finished some full-stack MERN projects.
+
+- As an 𝙚𝙭𝙥𝙚𝙧𝙩 𝙞𝙣 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝘾++, 𝙍𝙚𝙖𝙘𝙩.𝙟𝙨, 𝙉𝙤𝙙𝙚.𝙟𝙨, 𝗗𝗷𝗮𝗻𝗴𝗼, 𝙈𝙮𝙎𝙌𝙇, 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟, 𝙈𝙤𝙣𝙜𝙤𝘿𝘽, and more, I'm well-equipped to take on challenging projects and deliver high-quality solutions. My previous work experience in procurement, industrial production, and vendor management adds to my diverse skill set.
+
+- I'm eager to work in any private, national, or multinational organization as a software engineer or full-stack developer. I have no issue working in a junior position and am committed to long-term growth and success. If you share my interests, please feel free to connect with me!
+
+Contact Details:
+Cell: +8801787317444
+WhatsApp: +8801787317444
+Email: kashem3091@gmail.com
+GitHub: https://github.com/engrkashem
     
 - 🌱 I'm Currently Learning Algorithm and Django.
 -  Languages and Tools:
@@ -52,10 +64,10 @@
 
  🥅 2023 Goals:
 <li>Advance Learning on Python</li>
-<li>Learn Django</li>
-<li>Learn RUST</li>
+<li>Learning Django</li>
+<li>Learning Advance Node.js and MongoDB</li>
 <li>Solve 100++ Problems on LeetCode</li>
-<li>Solve 500++ Problems on Codeforces</li>
+<li>Solve 200++ Problems on Codeforces</li>
 
 ⚡[Vjudge](https://vjudge.net/user/engrkashem)
 ⚡[Codeforces](https://codeforces.com/profile/engr.kashem)
