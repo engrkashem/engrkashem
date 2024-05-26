@@ -2,10 +2,16 @@
 
 <h1 align="center">Hi there, I'm MOHAMMAD ABUL KASHEM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer | Learner</h3>
-<br/>
-    
+<h6 align="center">
+
+⚡[Linkedin](https://www.linkedin.com/in/mohammad-abul-kashem/)
+⚡[LeetCode](https://leetcode.com/engrkashem/)
+⚡[Facebook](https://www.facebook.com/ksmbd)
+
+</h6>
+
 ## About Me
-    
+
 - I am an 𝙀𝙀𝙀 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧 with of hands-on experience in web development and software engineering. I spend most of my daily time learning new skills, developing web applications, creating APIs, and designing database management systems. It would be an understatement if I tell you I'm passionate about programming.
 
 - As an **expert in JavaScript, TypeScript, Python, C++, React.js, Node.js, Django, MySQL, PostgreSQL, MongoDB, Mongoose**, and more, I'm well-equipped to take on challenging projects and deliver high-quality solutions. My previous work experience in procurement, industrial production, and vendor management adds to my diverse skill set.
@@ -44,8 +50,9 @@
 
 <br/>
 <br/>
+<br/>
     
-## 🥅 2022 Goals:
+### 🥅 2022 Goals:
 <li>Learn HTML - (Achieved)</li>
 <li>Learn CSS - (Achieved)</li>
 <li>Learn Java-Script - (Achieved)</li>
@@ -59,7 +66,7 @@
 <li>Learn Python - (Partially Achieved)</li>
 <br/>
 
-🥅 2023 Goals:
+### 🥅 2023 Goals:
 
 <li>Advance Learning on Python -(Achieved)</li>
 <li>Learning Django - (Intermediate level)</li>
@@ -67,7 +74,7 @@
 <li>Solve 100++ Problems on LeetCode -(Two third [79] Achieved)</li>
 <br/>
 
-🥅 2024 Goals:
+### 🥅 2024 Goals:
 
 <li>Advance API design with professional Documentation. </li>
 <li>Unit Testing of Node.js server and React.js</li>
@@ -79,9 +86,6 @@
 <li>Learn Docker and containerize project.</li>
 <li>Cross 100 Problems solving on LeetCode.</li>
 
-⚡[Vjudge](https://vjudge.net/user/engrkashem)
-⚡[Codeforces](https://codeforces.com/profile/engr.kashem)
-⚡[LeetCode](https://leetcode.com/engrkashem/)
 <br/>
 <br/>
 <br/>
