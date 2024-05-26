@@ -12,13 +12,15 @@
 
 - I'm enthusiastic about contributing to private, national, or multinational organizations as a software engineer or full-stack developer. I open to work is a junior positions and am dedicated to long-term growth and success. If my goals align with yours, please don't hesitate to reach out and connect.
 
-Contact Details:
-Cell: +8801787317444
-WhatsApp: +8801787317444
-Email: kashem3091@gmail.com
-GitHub: [engrkashem](https://github.com/engrkashem)
+### Contact Details:
 
-- Languages and Tools:
+- Cell: +8801787317444
+- WhatsApp: +8801787317444
+- Email: kashem3091@gmail.com
+- GitHub: [engrkashem](https://github.com/engrkashem)
+
+### Languages and Tools:
+
   <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
