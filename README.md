@@ -1,40 +1,36 @@
-<img src="abul_kashem.jpg" alt="kashem" />
+![Kashem](abul_kashem.jpg)
 
-<h1 align="center">Hi there, I'm MOHAMMAD ABUL KASHEM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ><h1/>
-<h3 align="center">Problem Solver | Software Engineer | Web Developer | Learner</h3>
+<h1 align="center">Hi there, I'm MOHAMMAD ABUL KASHEM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></h1>
+<h3 align="center">Software Engineer | Full Stack Web Developer | Learner</h3>
 <br/>
     
 ## About Me
     
-- I am an 𝙀𝙀𝙀 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧 with 2+ years of hands-on experience in web development and software engineering. I spend most of my daily time learning new skills, developing web applications, creating APIs, and designing database management systems. It would be an understatement if I tell you I'm passionate about programming.
+- I am an 𝙀𝙀𝙀 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧 with of hands-on experience in web development and software engineering. I spend most of my daily time learning new skills, developing web applications, creating APIs, and designing database management systems. It would be an understatement if I tell you I'm passionate about programming.
 
-- I have solved 500+ problems in different online judges in just 14 months, demonstrating my strong problem-solving abilities. I also had the opportunity to build a full-stack web application with React, Django, and MySQL, and I contributed significantly to the team, earning a recommendation letter for my 28% more contribution than other team members. I have also finished some full-stack MERN projects.
+- As an **expert in JavaScript, TypeScript, Python, C++, React.js, Node.js, Django, MySQL, PostgreSQL, MongoDB, Mongoose**, and more, I'm well-equipped to take on challenging projects and deliver high-quality solutions. My previous work experience in procurement, industrial production, and vendor management adds to my diverse skill set.
 
-- As an 𝙚𝙭𝙥𝙚𝙧𝙩 𝙞𝙣 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝘾++, 𝙍𝙚𝙖𝙘𝙩.𝙟𝙨, 𝙉𝙤𝙙𝙚.𝙟𝙨, 𝗗𝗷𝗮𝗻𝗴𝗼, 𝙈𝙮𝙎𝙌𝙇, 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟, 𝙈𝙤𝙣𝙜𝙤𝘿𝘽, and more, I'm well-equipped to take on challenging projects and deliver high-quality solutions. My previous work experience in procurement, industrial production, and vendor management adds to my diverse skill set.
-
-- I'm eager to work in any private, national, or multinational organization as a software engineer or full-stack developer. I have no issue working in a junior position and am committed to long-term growth and success. If you share my interests, please feel free to connect with me!
+- I'm enthusiastic about contributing to private, national, or multinational organizations as a software engineer or full-stack developer. I open to work is a junior positions and am dedicated to long-term growth and success. If my goals align with yours, please don't hesitate to reach out and connect.
 
 Contact Details:
 Cell: +8801787317444
 WhatsApp: +8801787317444
 Email: kashem3091@gmail.com
-GitHub: https://github.com/engrkashem
-    
-- 🌱 I'm Currently Learning Algorithm and Django.
--  Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br/>
-<br/>
+GitHub: [engrkashem](https://github.com/engrkashem)
 
+- Languages and Tools:
+  <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+  <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <br/>
+  <br/>
 
 ## 🔭 Connect with me:
 
@@ -59,15 +55,27 @@ GitHub: https://github.com/engrkashem
 <li>Learn C++ - (Achieved)</li>
 <li>Learn Data Structure - (Partially Achieved)</li>
 <li>Learn Python - (Partially Achieved)</li>
-<li>Problem Solve 600+ - (Partially Achieved)</li>
 <br/>
 
- 🥅 2023 Goals:
-<li>Advance Learning on Python</li>
-<li>Learning Django</li>
-<li>Learning Advance Node.js and MongoDB</li>
-<li>Solve 100++ Problems on LeetCode</li>
-<li>Solve 200++ Problems on Codeforces</li>
+🥅 2023 Goals:
+
+<li>Advance Learning on Python -(Achieved)</li>
+<li>Learning Django - (Intermediate level)</li>
+<li>Learning Advance Node.js and MongoDB -(Achieved)</li>
+<li>Solve 100++ Problems on LeetCode -(Two third [79] Achieved)</li>
+<br/>
+
+🥅 2024 Goals:
+
+<li>Advance API design with professional Documentation. </li>
+<li>Unit Testing of Node.js server and React.js</li>
+<li>Learn Advance React.js and build an industry standard project.</li>
+<li>Learn Next.js to advance level.</li>
+<li>System Design</li>
+<li>Expertise in DB Schema design.</li>
+<li>CI/CD pipeline</li>
+<li>Learn Docker and containerize project.</li>
+<li>Cross 100 Problems solving on LeetCode.</li>
 
 ⚡[Vjudge](https://vjudge.net/user/engrkashem)
 ⚡[Codeforces](https://codeforces.com/profile/engr.kashem)
@@ -75,7 +83,6 @@ GitHub: https://github.com/engrkashem
 <br/>
 <br/>
 <br/>
-
 
 ## 📫 GitHub Stats
 
