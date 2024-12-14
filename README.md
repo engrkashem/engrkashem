@@ -12,11 +12,13 @@
 
 ## About Me
 
-- I am an 𝙀𝙀𝙀 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧 with of hands-on experience in web development and software engineering. I spend most of my daily time learning new skills, developing web applications, creating APIs, and designing database management systems. It would be an understatement if I tell you I'm passionate about programming.
+- I am an **EEE Engineer** with extensive hands-on experience in **web development and software engineering**, specializing in building scalable, high-performance applications. My expertise lies in **backend-focused development**, with strong capabilities in frontend design and integration, ensuring seamless and efficient software solutions.
 
-- As an **expert in JavaScript, TypeScript, Python, C++, React.js, Node.js, Django, MySQL, PostgreSQL, MongoDB, Mongoose**, and more, I'm well-equipped to take on challenging projects and deliver high-quality solutions. My previous work experience in procurement, industrial production, and vendor management adds to my diverse skill set.
+- I have a proven track record with technologies such as **JavaScript, TypeScript, Python, C++, React.js, Node.js, Django, GraphQL, MySQL, PostgreSQL, MongoDB, and Mongoose**, complemented by a solid foundation in **Data Structures and Algorithms**. My skills enable me to design and implement systems that are not only technically robust but also aligned with business objectives.
 
-- I'm enthusiastic about contributing to private, national, or multinational organizations as a software engineer or full-stack developer. I open to work is a junior positions and am dedicated to long-term growth and success. If my goals align with yours, please don't hesitate to reach out and connect.
+- My background extends beyond development. My experience in **procurement, industrial production, and vendor management** equips me with a unique ability to understand operational workflows and deliver solutions that drive business growth. As an employee, I aim to be a catalyst for organizational success by aligning technical solutions with business strategies.
+
+- I am enthusiastic about contributing as a **Software Engineer or Full-Stack Developer** in national, or multinational organizations. I am open to mid level roles with a clear focus on **long-term growth, collaboration, and creating value**. If you are looking for a professional who combines technical expertise with a business-oriented mindset, let’s connect!
 
 ### Contact Details:
 
@@ -25,58 +27,38 @@
 - Email: kashem3091@gmail.com
 - GitHub: [engrkashem](https://github.com/engrkashem)
 
-### Languages and Tools:
+### Skills:
 
-  <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-  <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- **Core:**
+
+  - JavaScript, TypeScript, Python, C++
+  - Data Structure and Algorithm
+  - Database management system
+  - System design and SDLC
+  - Familiar with Rust
+
+- **Backend:**
+
+  - Node.js, Express.js
+  - Mongoose ORM, Prisma ODM
+  - Graphql Apollo Server
+  - MySQL, PostgreSQL, MongoDB
+  - Web RTC and Socket.io
+  - comfortable with DJANGO
+
+- **Frontend:**
+
+  - HTML, CSS, React.js,
+  - Tailwind CSS, Bootstrap, Ant Design, Material UI
+  - Redux, RTK Query
+  - Familiar with Next.js
+
   <br/>
   <br/>
-
-## 🔭 Connect with me:
-
-[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>](https://www.facebook.com/ksmbd)
-
-<a href="https://www.linkedin.com/in/mohammad-abul-kashem/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
-</a>
-
-<br/>
-<br/>
-<br/>
-    
-### 🥅 2022 Goals:
-<li>Learn HTML - (Achieved)</li>
-<li>Learn CSS - (Achieved)</li>
-<li>Learn Java-Script - (Achieved)</li>
-<li>Learn ReactJs - (Achieved)</li>
-<li>Learn NodeJs - (Achieved)</li>
-<li>Learn ExpressJs - (Achieved)</li>
-<li>Learn MongoDb - (Achieved)</li>
-<li>Learn C - (Achieved)</li>
-<li>Learn C++ - (Achieved)</li>
-<li>Learn Data Structure - (Partially Achieved)</li>
-<li>Learn Python - (Partially Achieved)</li>
-<br/>
-
-### 🥅 2023 Goals:
-
-<li>Advance Learning on Python -(Achieved)</li>
-<li>Learning Django - (Intermediate level)</li>
-<li>Learning Advance Node.js and MongoDB -(Achieved)</li>
-<li>Solve 100++ Problems on LeetCode -(Two third [79] Achieved)</li>
-<br/>
 
 ### 🥅 2024 Goals:
 
-<li>Advance API design with professional Documentation. </li>
+<li>Advance API design with professional Documentation.</li>
 <li>Unit Testing of Node.js server and React.js</li>
 <li>Learn Advance React.js and build an industry standard project.</li>
 <li>Learn Next.js to advance level.</li>
