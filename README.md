@@ -67,17 +67,12 @@
   <br/>
   <br/>
 
-### 🥅 2024 Goals:
+### 🥅 2025 Goals:
 
-<li>Advance API design with professional Documentation.</li>
-<li>Unit Testing of Node.js server and React.js</li>
-<li>Learn Advance React.js and build an industry standard project.</li>
-<li>Learn Next.js to advance level.</li>
-<li>System Design</li>
-<li>Expertise in DB Schema design.</li>
-<li>CI/CD pipeline</li>
-<li>Learn Docker and containerize project.</li>
-<li>Cross 100 Problems solving on LeetCode.</li>
+<li>Learning Computer Networking</li>
+<li>Deep Dive into Docker </li>
+<li>Learning Linux system a bit more advance</li>
+<li>Learning DevOps a bit complex level</li>
 
 <br/>
 <br/>
