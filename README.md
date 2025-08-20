@@ -64,13 +64,6 @@
 
 - I am enthusiastic about contributing as a **Software Engineer or Full-Stack Developer** in national, or multinational organizations. I am open to mid level roles with a clear focus on **long-term growth, collaboration, and creating value**. If you are looking for a professional who combines technical expertise with a business-oriented mindset, let’s connect!
 
-### Contact Details:
-
-- Cell: +8801787317444
-- WhatsApp: +8801787317444
-- Email: kashem3091@gmail.com
-- GitHub: [engrkashem](https://github.com/engrkashem)
-
   <br/>
   <br/>
 
