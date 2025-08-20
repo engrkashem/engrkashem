@@ -53,6 +53,7 @@
 - WhatsApp: +8801787317444
 - Email: kashem3091@gmail.com
 - GitHub: [engrkashem](https://github.com/engrkashem)
+- LinkedIn: [Mohammad Abul Kashem](https://www.linkedin.com/in/mohammad-abul-kashem/)
 
 ## About Me
 
@@ -67,7 +68,7 @@
   <br/>
   <br/>
 
-### 🥅 2025 Goals:
+## 🥅 2025 Goals:
 
 <li>Learning Computer Networking</li>
 <li>Deep Dive into Docker </li>
