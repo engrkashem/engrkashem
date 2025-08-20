@@ -1,6 +1,6 @@
 ![Kashem](abul_kashem.jpg)
 
-<h1 align="center">Hi there, I'm MOHAMMAD ABUL KASHEM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></h1>
+<h1 align="center">Hi, I'm MOHAMMAD ABUL KASHEM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer | Learner</h3>
 <h6 align="center">
 
@@ -9,6 +9,50 @@
 ⚡[Facebook](https://www.facebook.com/ksmbd)
 
 </h6>
+
+## Skills:
+
+- **Core:**
+
+  - Strong in **JavaScript, TypeScript, Python, C++** with solid knowledge of **Data Structures & Algorithms**
+  - Experienced in **System Design, Database Management, and SDLC**
+  - Familiar with **Rust** for performance-critical applications
+
+- **Backend:**
+
+  - Frameworks: **Node.js, NestJS, Express.js, Django**
+  - APIs: **GraphQL (Apollo Server), RESTful API design**
+  - Databases: **MongoDB, MySQL, PostgreSQL, schema design, indexing**
+  - ORMs/ODMs: **Mongoose, Prisma**
+  - Real-time Communication: **WebRTC, Socket.IO**
+  - Authentication & Authorization: **JWT, OAuth2**
+  - Testing: **Jest, Supertest** (unit & integration testing)
+  - Deployment & CI/CD: **Docker, GitHub Actions, PM2, Nginx**
+
+- **Frontend:**
+  - Web: **React.js, Next.js**
+  - UI Frameworks: **Tailwind CSS, Bootstrap, Ant Design, Material UI**
+  - State Management: **Redux, RTK Query**
+
+## Professional Experiences:
+
+- **Backend Developer** <br/>
+  Company: **Zubion Development** (**July 2024 - present**)
+
+  - **Achievements:**
+    - Developed **scalable backend infrastructure** for a CRM SaaS platform that can handle **3x more concurrent users** without additional server costs.
+    - **Designed and implemented RESTful & GraphQL APIs in NestJS** with query efficiency and caching optimization to **improve average response times by ~30%**.
+    - **Optimized MongoDB schemas & indexes** to reduce slow queries by **40%** and improve reporting/dashboard performance.
+    - **System-wide validation and error handling** to cut production bugs by **~25%** and improve system reliability.
+    - **Introduced code modularity, testing, and CI/CD pipelines** to increase deployment speed and reduce rollback incidents.
+    - **Contributed across the SDLC:** From system design, requirements analysis, and database modeling to deployment and monitoring ensured end-to-end delivery of features.
+
+## Contact Details:
+
+- Cell: +8801787317444
+- WhatsApp: +8801787317444
+- Email: kashem3091@gmail.com
+- GitHub: [engrkashem](https://github.com/engrkashem)
 
 ## About Me
 
@@ -26,32 +70,6 @@
 - WhatsApp: +8801787317444
 - Email: kashem3091@gmail.com
 - GitHub: [engrkashem](https://github.com/engrkashem)
-
-### Skills:
-
-- **Core:**
-
-  - JavaScript, TypeScript, Python, C++
-  - Data Structure and Algorithm
-  - Database management system
-  - System design and SDLC
-  - Familiar with Rust
-
-- **Backend:**
-
-  - Node.js, Express.js
-  - Mongoose ORM, Prisma ODM
-  - Graphql Apollo Server
-  - MySQL, PostgreSQL, MongoDB
-  - Web RTC and Socket.io
-  - comfortable with DJANGO
-
-- **Frontend:**
-
-  - HTML, CSS, React.js,
-  - Tailwind CSS, Bootstrap, Ant Design, Material UI
-  - Redux, RTK Query
-  - Familiar with Next.js
 
   <br/>
   <br/>
